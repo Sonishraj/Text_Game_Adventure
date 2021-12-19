@@ -10,6 +10,10 @@ The game consists of three levels, and also has defined functions for set ups in
   1. Install python 3.6
   2. Install Jupyter notebook
 
+<b> Programming Language Used</b> <br>
+  
+  1. Python <br>
+
 <b> Run the Script</b><br>
 
 Open text_adventure_game.ipynb file in jupyter notebook.
